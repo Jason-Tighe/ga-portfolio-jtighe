@@ -57,7 +57,7 @@ export default function Project(props) {
 									</p>
 									<a
 										id="button"
-										href="https://github.com/slowdolphin/QRCube"
+										href="https://qrcube-cap.herokuapp.com/"
 										target="_blank"
 										rel="noreferrer"
 										className="btn btn-primary"
@@ -66,7 +66,7 @@ export default function Project(props) {
 									</a>{' '}
 									<a
 										id="button"
-										href="https://qrcube-cap.herokuapp.com/"
+										href="https://github.com/slowdolphin/QRCube"
 										target="_blank"
 										rel="noreferrer"
 										className="btn btn-primary"
