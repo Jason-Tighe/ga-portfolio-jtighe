@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");
+@import "reset";
+@import "grid";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+body {
+  font-size: 16px;
+
+}
+
+.NavBar {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+}
+
+
+
+#button{
+  background-color: #334756 !important;
+  border-color: #082032 !important;
+  color: white !important;
+}
+
+#header {
+  font-family: "Montserrat", cursive;
+  background-color: #F0A500 !important;
+}
+
+#footerColor{
+  font-family: "Montserrat", cursive;
+  color: white !important;
+}
+
+#footer{
+  font-family: "Montserrat", cursive;
+  background-color: #082032 !important;
+}
+
+#Hbody {
+  font-family: "Manrope", sans-serif;
+  text-shadow: 1px 1px white !important;
+}
+
+
+#link{
+  font-family: "Montserrat", cursive;
+  color: #082032 !important;
+
+}
+
+
+#title {
+  font-family: "Montserrat", sans-serif;
+}
+
+#body {
+  font-family: "Manrope", sans-serif;
+}
+
+#icon-text {
+  visibility: hidden;
+}
+
+#icon-text:hover {
+  visibility: visible;
+}
+
+#icon:hover:hover ~ #icon-text {
+  visibility: visible;
+}
