@@ -16,7 +16,7 @@ export default function Body(props) {
 						accounting and information systems. I am skilled at tackling complex
 						problems using quick wit and a calm mentality. I've always been
 						passionate about growth and creativity, which has been made possible
-						by developing my skills with software development. Addiontally, my
+						by developing my skills with software development. Additionally, my
 						experience in accounting and information systems has allowed me to
 						engage each project with a well rounded and fresh perspective.
 					</p>
