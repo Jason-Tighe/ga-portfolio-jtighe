@@ -17,7 +17,7 @@ export default function Contact(props) {
 				className={`link-${props.color}`}
 				target="_blank"
 				rel="noreferrer"
-				href="https://github.com/slowdolphin"
+				href="https://github.com/Jason-Tighe"
 			>
 				<i className={`bi bi-github ${props.display}`}> {props.github}</i>
 			</a>
